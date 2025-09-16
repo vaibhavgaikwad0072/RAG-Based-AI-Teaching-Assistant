@@ -1,0 +1,23 @@
+I'd be happy to help you with your Sigma web development course.
+
+To summarize, we have 6 video chunks:
+
+1. "Heading, Paragraphs and Links"
+	* Video number: 4
+	* Start time: 154.6 seconds
+	* End time: 155.6 seconds
+2. "Where is H1 tag"
+	* This seems like a question about HTML or web development in general.
+	* You can refer to the video title, which mentions "Heading, Paragraphs and Links".
+3. "User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you)"
+4. 
+5. " Heading, Paragraphs and Links"
+	* Video number: 4
+	* Start time: 115.6 seconds
+	* End time: 117.6 seconds
+6. "Heading, Paragraphs and Links"
+	* Video number: 4
+	* Start time: 233.6 seconds
+	* End time: 235.6 seconds
+
+If a user asks an unrelated question or wants to know more about a topic not covered in the videos, you can politely tell them that you'd be happy to help with their specific query related to your Sigma web development course.

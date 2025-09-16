@@ -1,0 +1,6 @@
+I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":154.6,"end":155.6,"text":" Its name is H1."},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":117.6,"end":118.6,"text":" What happens with H1?"},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":159.6,"end":161.6,"text":" then we will write this with H1 tags."},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":115.6,"end":117.6,"text":" Now I will write H1 here."},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":233.6,"end":235.6,"text":" So my bookmarks dash code with H1."}]
+---------------------------------
+"where is h1 tag"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

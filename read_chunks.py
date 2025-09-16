@@ -1,7 +1,10 @@
 import requests
 import os
 import json
+import numpy as np
 import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+import joblib
 
 def create_embedding(text_list):
     # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
@@ -32,6 +35,6 @@ for json_file in jsons:
 # print(my_dicts)
 
 df = pd.DataFrame.from_records(my_dicts)
-print(df)
-# a = create_embedding(["Cat sat on the mat", "Harry dances on a mat"])
-# print(a)
+# Save this dataframe
+joblib.dump(df, 'embeddings.joblib')
+
