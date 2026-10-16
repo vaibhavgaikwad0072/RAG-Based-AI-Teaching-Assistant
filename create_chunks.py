@@ -42,4 +42,4 @@ for audio in audios:
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(chunks_with_metadata, f, ensure_ascii=False, indent=2)
 
-        print(f"✅ Saved → {output_path}")
+        print(f" Saved → {output_path}")
