@@ -1,4 +1,4 @@
-I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+I am teaching web development in  web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
 
 [{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":154.6,"end":155.6,"text":" Its name is H1."},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":117.6,"end":118.6,"text":" What happens with H1?"},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":159.6,"end":161.6,"text":" then we will write this with H1 tags."},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":115.6,"end":117.6,"text":" Now I will write H1 here."},{"title":"Heading, Paragraphs and Links ","number":"4.mp4","start":233.6,"end":235.6,"text":" So my bookmarks dash code with H1."}]
 ---------------------------------
